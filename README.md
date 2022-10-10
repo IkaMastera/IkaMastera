@@ -28,7 +28,7 @@
   <br>
   💬 Ask me anything about JavaScript HTML CSS
   <br>
-  📫 How to reach me: <a href="mailto: ikamastera@redberry.ge">ikamastera@redberry.ge</a>
+  📫 How to reach me: <a href="mailto: ir.oboladze@gmail.com">ir.oboladze@gmail.com</a>
 </p>
 
 <hr>
