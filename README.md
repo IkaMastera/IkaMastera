@@ -24,7 +24,7 @@
   <br>
   💻 I love to write code and learn anything new about this industry
   <br>
-  📚 I’m currently learning React and JavaScript
+  📚 I’m currently learning Angular and JavaScript
   <br>
   💬 Ask me anything about JavaScript HTML CSS
   <br>
