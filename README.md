@@ -70,6 +70,7 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=IkaMastera&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 <hr>
