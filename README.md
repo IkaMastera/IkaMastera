@@ -58,22 +58,6 @@
   <code><img title="Laravel" height="25" src="images/laravel.png"></code>
 </p>
 <hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-   [![GitHub Streak](https://streak-stats.demolab.com/?user=IkaMastera)](https://git.io/streak-stats)
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app?username=IkaMastera&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  https://github-readme-activity-graph.vercel.app
-</p>
-<hr>
-</div>
 <h4 align="center">
   <a href="https://github.com/IkaMastera?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
