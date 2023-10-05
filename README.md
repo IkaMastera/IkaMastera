@@ -63,9 +63,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=IkaMastera&theme=react&border=61dafb&hide_border=true" alt="IkaMastera" />
-    </a>
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
