@@ -24,7 +24,7 @@
   <br>
   💻 I love to write code and learn anything new about this industry
   <br>
-  📚 I’m currently learning Angular and JavaScript
+  📚 I’m currently learning Next.js and Mern Stack
   <br>
   💬 Ask me anything about JavaScript HTML CSS
   <br>
