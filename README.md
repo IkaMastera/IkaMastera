@@ -55,9 +55,12 @@
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   <code><img title="Laravel" height="25" src="images/laravel.png"></code>
+  <code><img title="Node.js" height="25" src="images/nodejs-logo-svgrepo-com.svg"></code>
+  <code><img title="Next.js" height="25" src="images/nextjs-icon-svgrepo-com.svg"></code>
+  <code><img title="Tailwind.CSS" height="25" src="images/tailwind-css.svg"></code>
+  <code><img title="MongoDB" height="25" src="images/mongodb-ar21.svg"></code>
 </p>
 <hr>
 <h4 align="center">
   <a href="https://github.com/IkaMastera?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
