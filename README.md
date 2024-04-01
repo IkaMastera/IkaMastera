@@ -22,7 +22,7 @@
   <br>
   🎓 I graduated from Georgias National University Social Psychology Masters
   <br>
-     Right now im studying Systems Managment DevOps At The best Univeristy in Georgia BTU !
+  🎓 Right now im studying Systems Managment DevOps At The best Univeristy in Georgia BTU !
   <br>
   💻 I love to write code and learn anything new about this industry
   <br>
