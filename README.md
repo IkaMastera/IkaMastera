@@ -13,56 +13,53 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Irakli Oboladze, Computer Engineer & Software Developer from Georgia
+  Hi, I'm Irakli Oboladze, Automation Engineer & Software Developer from Georgia
   <br>
   <br>
-  🔬 I'm Self Thaught Software Developer Very Passionate About My Journey in this Industry
+  🔬 I'm a passionate engineer focusing on building efficient, automated solutions and enhancing software quality
   <br>
-  🎓 I graduated from Ilias State University Clinical Psychology Bachelors
+  🎓 I hold a bachelor's degree in Clinical Psychology from Ilias State University
   <br>
-  🎓 I graduated from Georgias National University Social Psychology Masters
+  🎓 I completed a master's degree in Social Psychology at Georgia's National University
   <br>
-  🎓 Right now im studying Computer Science Masters At American Georgian University GAU
+  🎓 Currently, I'm pursuing a master's in Computer Science at American Georgian University (GAU)
   <br>
-  💻 I love to write code and learn anything new about this industry
+  💻 I specialize in Test Automation and Software Development, utilizing tools like Selenium, TestNG, and JUnit
   <br>
-  📚 I’m currently learning JAVA, SPRING and MYSQL
+  📚 I’m actively learning Java, Spring Boot, and MySQL to deepen my backend expertise
   <br>
-  💬 Ask me anything about JavaScript HTML CSS
+  💬 Ask me anything about Automation Testing, JavaScript, or Java!
   <br>
-  📫 How to reach me: <a href="mailto: ir.oboladze@gmail.com">ir.oboladze@gmail.com</a>
+  📫 How to reach me: <a href="mailto:ir.oboladze@gmail.com">ir.oboladze@gmail.com</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Skills, Tools & Technologies 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="Java" height="25" src="images/java.svg"></code>
+  <code><img title="Spring Boot" height="25" src="images/spring-boot.svg"></code>
+  <code><img title="Selenium" height="25" src="images/selenium.svg"></code>
+  <code><img title="TestNG" height="25" src="images/testng.svg"></code>
+  <code><img title="JUnit" height="25" src="images/junit.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Laravel" height="25" src="images/laravel.png"></code>
-  <code><img title="Node.js" height="25" src="images/nodejs-logo-svgrepo-com.svg"></code>
-  <code><img title="Next.js" height="25" src="images/nextjs-icon-svgrepo-com.svg"></code>
-  <code><img title="Tailwind.CSS" height="25" src="images/tailwind-css.svg"></code>
   <code><img title="MongoDB" height="25" src="images/mongodb-ar21.svg"></code>
+  <code><img title="Node.js" height="25" src="images/nodejs-logo-svgrepo-com.svg"></code>
 </p>
+
 <hr>
+<p align="center">
+  🚀 I am driven by the goal of optimizing processes and ensuring software quality through innovative solutions.
+</p>
 <h4 align="center">
-  <a href="https://github.com/IkaMastera?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/IkaMastera?tab=repositories" title="Show Repositories">🔎 Explore My Projects 🔍</a>
 </h4>
+
