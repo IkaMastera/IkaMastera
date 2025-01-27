@@ -26,7 +26,7 @@
   <br>
   💻 I specialize in Test Automation and Software Development, utilizing tools like Selenium, TestNG, and JUnit
   <br>
-  📚 I’m actively learning Java, Spring Boot, and MySQL to deepen my backend expertise
+  📚 I’m actively learning Java, Spring Boot,MySQL and Pentesting to deepen my Automation expertise 
   <br>
   💬 Ask me anything about Automation Testing, JavaScript, or Java!
   <br>
